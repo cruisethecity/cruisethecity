@@ -70,8 +70,6 @@ A Terraform driven infrastructure project designed to mirror enterprise complian
 
 ## Currently
 
-🎓 **B.S. Cloud Computing (AWS Track)** — Western Governors University *(Expected June 2027)*
-
 📚 **LaunchCode Software Foundations** — Completed March 2026
 
 📚 **LaunchCode Human Hire AI 101** —  Started April 2026
