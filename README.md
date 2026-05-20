@@ -1,4 +1,4 @@
-# Hey, I'm Keenen Wilkins 👋
+# Hey, I'm Keenen Wilkins
 
 **Cloud Engineer | Site Reliability | Cloud Architecture**
 
@@ -6,7 +6,7 @@ I bridge the gap between business strategy and cloud execution. I focus on build
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 - **Cloud:** AWS
 - **IaC & Automation:** Terraform
