@@ -15,9 +15,9 @@ I bridge the gap between business strategy and cloud execution. I focus on build
 
 ---
 
-### 🚀 Featured Project
+### Featured Project
 
-#### 🔒 Trash Guard — Compliance-as-a-Service Platform
+#### Trash Guard — Compliance-as-a-Service Platform
 *Founder & Lead Developer (Private Repo)*
 
 A RegTech compliance platform built for the valet trash industry to automate dispute defense, enforce service documentation, and give property managers real-time compliance visibility.
@@ -28,7 +28,7 @@ A RegTech compliance platform built for the valet trash industry to automate dis
 
 ---
 
-### 🧠 The Engineering Philosophy
+### The Engineering Philosophy
 
 Before moving into tech, I spent years in high-volume operations—managing complex logistics, reading rooms, and closing deals under pressure. 
 
